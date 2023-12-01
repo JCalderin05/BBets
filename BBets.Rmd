@@ -72,8 +72,15 @@ print(money)
 The number of students to make the payout fair is 28.
 
 
+## Brownlows Bank
 
 
+```{r}
+money=BrLw(35,2,637)
+print (money)
+```
+
+Overall Mr Brownlow will make a total of 280 dollars.
 
 
 
